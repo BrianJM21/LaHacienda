@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>4189606101-tq1gtu5rb6ie3i7g9fm68v0joi19nqi8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.4189606101-tq1gtu5rb6ie3i7g9fm68v0joi19nqi8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAB9tAFZ7cEC8TwcepxtVNlKF9hT3rqhVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>4189606101</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brianjm21.LaHacienda</string>
+	<key>PROJECT_ID</key>
+	<string>lahacienda-77ec4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lahacienda-77ec4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:4189606101:ios:5e7a4ce1f9680deedad25c</string>
+</dict>
+</plist>
