@@ -3,11 +3,11 @@
 
 *Julio 2023*
 
-![La Hacienda Logo](Images/LaHaciendaLOGO.png "La Hacienda Logo")
+![La Hacienda Logo](Images/LaHaciendaLOGO.jpg "La Hacienda Logo")
 
 ## Descripción
 
-**La Hacienda** es una aplicación que sirve para **hacer pedidos de agua potable a domicilio.** El nombre lo toma de una **purificadora real** ubicada en el Edo. de México, cuyo **dueño y amigo mío me pidio hacer por encargo.** Este proyecto, aunque todavía en un **estado de desarrollo intermedio,** pues faltaría agregar algunas características más para considerarla completamente terminada, pero en un estado lo suficientemente desarrollado como para usarse por los clientes de la purificadora, ha sido uno de mis más grandes logros a la fecha en la que escribo esto, ya que **está desarrollada con un profesionalismo y expertise técnico intermedio-avanzado, utilizando una arquitectura MVVM, patrones de delegamiento, observabilidad, inyección de dependiencias, adaptabilidad y segregación de interfaces.** También incorpora un **servicio de BackEnd de Google-FireBase para la autenticación y manejo de base de datos sincronizada en tiempo real.**
+**La Hacienda** es una aplicación que sirve para **hacer pedidos de agua potable a domicilio.** El nombre lo toma de una **purificadora real** ubicada en el Edo. de México, cuyo **dueño y amigo mío me pidio desarrollar una App para dicho negocio.** Este proyecto, ha sido uno de mis más grandes logros como Freelance a la fecha, **utiliza una arquitectura MVVM, patrones de delegamiento, observabilidad, inyección de dependiencias, adaptabilidad y segregación de interfaces.** También incorpora un **servicio de BackEnd de Google-FireBase para la autenticación y manejo de base de datos sincronizada en tiempo real.**
 
 
 ## Características
@@ -66,4 +66,4 @@ Al iniciar sesión, el usuario se encontrará en una **pantalla con cuatro pesta
 
 ## Licenciamiento
 
-- **Derechos reservados para uso comercial por Brian Jiménez Moedano, autor y desarrollador**
+- **Derechos reservados para uso y comercialización por Brian Jiménez Moedano, autor y desarrollador.**
